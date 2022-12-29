@@ -1,29 +1,36 @@
 
 import Navbar from "./Navbar";
 import Anasayfa from "./Home";
+import {BrowserRouter as Router,Route, Switch,} from 'react-router-dom'
+import Create from "./Create";
+import BlogDetails from "./BlogDetails";
 
 function App() {
 
+//  exact diyince sadece / olan sayfa geliyor
 
-
-
-
-
-
-  //   const baslik ="AOS Blog"
-//   let okunmaSayisi=300;
-  
-// const blog={ad:"ilk",aciklama:"ilk açıklama"} 
-// const link= "www.google.com"
   
 return (
+<Router>
   <div className="App">
-<Navbar/>
+  <Navbar/>
 <div className="content">
-  <Anasayfa></Anasayfa>
+    <Switch>
+      <Route  exact path="/">
+    <Anasayfa />
+  </Route>
+  <Route path="/create">
+    <Create />
+  </Route>
+  <Route path="/blogs/:id">
+    <BlogDetails />
+  </Route>
+</Switch>
 </div>
   </div>
 
+
+</Router>
 
 
 

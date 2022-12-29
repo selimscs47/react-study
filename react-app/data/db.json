@@ -1,0 +1,106 @@
+{
+  "yazilar": [
+    {
+      "ad": "Yeni Başlayanlar için C#",
+      "aciklama": "lorem ipsum",
+      "yazar": "Selim Can Sağdıç",
+      "id": 1
+    },
+    {
+      "ad": "React Öğreniyorum",
+      "aciklama": "lorem ipsum...",
+      "yazar": "Ahmet Palavan",
+      "id": 2
+    },
+    {
+      "ad": "İleri Seviye C#",
+      "aciklama": "lorem ipsum...",
+      "yazar": "Selim Can Sağdıç",
+      "id": 3
+    },
+    {
+      "ad": "MVC Öğreniyorum",
+      "aciklama": "lorem ipsum",
+      "yazar": "Alişan Karadaş...",
+      "id": 4
+    },
+    {
+      "baslik": "knkjbkjb",
+      "aciklama": "bkbkbk",
+      "yazar": "Alişan Karadaş",
+      "id": 5
+    },
+    {
+      "baslik": "knkjbkjb",
+      "aciklama": "bkbkbk",
+      "yazar": "Alişan Karadaş",
+      "id": 6
+    },
+    {
+      "baslik": "knkjbkjb",
+      "aciklama": "bkbkbkdsfsfds",
+      "yazar": "Selim Can Sağdıç",
+      "id": 7
+    },
+    {
+      "baslik": "knkjbkjb",
+      "aciklama": "bkbkbkdsfsfds",
+      "yazar": "Selim Can Sağdıç",
+      "id": 8
+    },
+    {
+      "ad": "asfafa",
+      "aciklama": "sffdsf",
+      "yazar": "",
+      "id": 9
+    },
+    {
+      "ad": "asfafa",
+      "aciklama": "sffdsf",
+      "yazar": "",
+      "id": 10
+    },
+    {
+      "ad": "yeni",
+      "aciklama": "başlık",
+      "yazar": "",
+      "id": 11
+    },
+    {
+      "ad": "yeni",
+      "aciklama": "başlık",
+      "yazar": "",
+      "id": 12
+    },
+    {
+      "ad": "yeni",
+      "aciklama": "başlık",
+      "yazar": "",
+      "id": 13
+    },
+    {
+      "ad": "jgjgj",
+      "aciklama": "ggkgk",
+      "yazar": "Alişan Karadaş",
+      "id": 14
+    },
+    {
+      "ad": "kknknknköb",
+      "aciklama": "bjbjbj",
+      "yazar": "",
+      "id": 15
+    },
+    {
+      "ad": "şşşşşş",
+      "aciklama": "ssfcff",
+      "yazar": "Alişan Karadaş",
+      "id": 16
+    },
+    {
+      "ad": "as",
+      "aciklama": "sfs",
+      "yazar": "",
+      "id": 17
+    }
+  ]
+}
