@@ -134,3 +134,18 @@
 .create-s{
   font-size: 20px;
 }
+
+.not-found h2{
+  color:red;
+  font-size: 35px;
+}
+
+.not-found p{
+  font-size: 30px;
+  margin: 10px;
+}
+
+.not-found ,Link  {
+  font-size:40px;
+  
+}
